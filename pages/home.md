@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Please work I want to be a <strong>Fussballer</strong> ⚽️"
+title: "FOLIO - <strong>LOSBALLERT</strong>"
 description: "Showcase your projects, work or case studies in style with this markdown powered portfolio theme for Jekyll."
 meta_description: "Jekyll Curate is a premium Jekyll blog theme"
 meta_title: Jekyll Curate - Premium Portfolio Theme
