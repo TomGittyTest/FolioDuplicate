@@ -6,7 +6,7 @@ permalink: "/privacy-policy/"
 ---
 
 
-We have done our best to create a simple, transparent privacy policy. **Our aim is to collect and store no data, or as little as possible.** We only use cookies that are essential to run this website.
+We have done our very best to create a simple, transparent privacy policy. **Our aim is to collect and store no data, or as little as possible.** We only use cookies that are essential to run this website.
 
 This site is statically generated and served as HTML. Fundamentally this means there is very little surface area for this site to be hacked or compromised. It does not require a database or backend server to process and render documents. Technically there is still a webserver, but it serves pre-rendered documents generated at build time.
 
